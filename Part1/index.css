@@ -1,0 +1,9 @@
+@keyframes FadeIn { 
+    from { color:white; }
+    to { color:black; }
+}
+
+.banner {
+    color: white;
+    animation: FadeIn 1s;
+}

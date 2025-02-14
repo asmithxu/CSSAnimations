@@ -1,0 +1,9 @@
+@keyframes Grow {
+    from { font-size: 11px; }
+    to { font-size: 50px; }
+}
+
+#emoji {
+    font-size: 50px;
+    animation: Grow 1s;
+}
